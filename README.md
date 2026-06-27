@@ -89,15 +89,6 @@ Users can filter the dashboard using:
 - Life Sciences employees contribute the highest attrition.
 - Average employee age is **37 years**.
 - Average employee tenure is **7 years**.
-
----
-
-# 📸 Dashboard Screenshot
-
-<p align="center">
-<img src="dashboard.png" width="950">
-</p>
-
 ---
 
 # 📊 KPIs
