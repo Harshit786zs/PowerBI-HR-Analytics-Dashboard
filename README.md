@@ -3,22 +3,6 @@
 An interactive **HR Analytics Dashboard** built using **Microsoft Power BI** to analyze employee attrition, workforce demographics, salary distribution, and tenure trends. The dashboard enables HR professionals and decision-makers to identify key factors influencing employee turnover and make data-driven workforce decisions.
 
 ---
-
-## 🚀 Project Overview
-
-Employee attrition is one of the biggest challenges organizations face. This dashboard provides comprehensive insights into workforce composition, attrition patterns, salary distribution, and employee demographics through interactive visualizations.
-
-The report allows HR teams to:
-
-- Monitor employee attrition
-- Identify departments with high turnover
-- Analyze attrition by job role
-- Understand workforce demographics
-- Explore salary trends
-- Gain actionable business insights
-
----
-
 # 🎯 Objectives
 
 - Analyze employee attrition trends
