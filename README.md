@@ -4,16 +4,6 @@ An interactive **HR Analytics Dashboard** built using **Microsoft Power BI** to 
 
 ---
 
-## 📊 Dashboard Preview
-
-> **Dashboard Screenshot**
-
-<p align="center">
-  <img src="dashboard.png" alt="HR Analytics Dashboard" width="900"/>
-</p>
-
----
-
 ## 🚀 Project Overview
 
 Employee attrition is one of the biggest challenges organizations face. This dashboard provides comprehensive insights into workforce composition, attrition patterns, salary distribution, and employee demographics through interactive visualizations.
